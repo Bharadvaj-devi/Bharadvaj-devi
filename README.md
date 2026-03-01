@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <!-- ================= HERO SECTION ================= -->
 
-<h1 align="center">Hi 👋, I'm Devi Bharadvaj</h1>
+<h1 align="center">Hi 👋</h1>
 
 <!-- ================= DYNAMIC BADGES ================= -->
 
