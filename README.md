@@ -72,7 +72,7 @@ Smart India Hackathon Winner with hands-on experience deploying real-world solut
 
 ---
 
-## ⚙️ Tech Stack (Dynamic Icons)
+## ⚙️ Tech Stack
 
 ### Languages
 <p>
